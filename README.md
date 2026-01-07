@@ -54,7 +54,7 @@ AI-powered eye-tracking simulation that predicts where users will focus:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Creative-Intelligence-Hub-CIH.git
+git clone https://github.com/horcruxmelon/Creative-Intelligence-Hub-CIH.git
 cd Creative-Intelligence-Hub-CIH
 ```
 
